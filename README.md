@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Armin Parsa
 
 💡 Passionate **Full Stack Developer** | 🧠 Tech Enthusiast | 🎯 Lifelong Learner  
-🌍 Based in [Your Country]  
-📫 Reach me at: [your.email@example.com]
+🌍 Based in [Iran]  
+📫 Reach me at: [arminparsa789@gmail.com]
 
 ---
 
