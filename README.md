@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Armin Parsa
+# 👋 Hi, I'm Armin Parsa
 
 💡 Passionate **Full Stack Developer** | 🧠 Tech Enthusiast | 🎯 Lifelong Learner  
 🌍 Based in [Iran]  
